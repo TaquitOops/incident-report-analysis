@@ -1,4 +1,4 @@
-# 📝 Incident Report Analysis (NIST CSF)
+#  Incident Report Analysis (NIST CSF)
 
 ## Summary
 A multimedia company experienced a Denial of Service (DoS) attack that disrupted its internal network for two hours. The attack was carried out through a flood of incoming ICMP packets, which overwhelmed the firewall and caused critical services to stop responding. The incident response team mitigated the attack by blocking ICMP traffic, isolating non-critical services, and restoring essential network operations.
